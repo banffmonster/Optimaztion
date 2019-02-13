@@ -1,0 +1,6 @@
+Python code for assignment 1 ENEL 641
+
+SDa.py is steepest descent for question a
+SDb.py is steepest descent for question b
+Newtona.py is Newton's technique for question a
+Newtonb.py is Newton.s technique for question b
