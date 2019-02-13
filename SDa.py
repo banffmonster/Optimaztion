@@ -34,7 +34,9 @@ def get_t(x0):
 
 
 if __name__ == '__main__':
+
     i = 0
+    # stop condition
     while (abs(df.subs({x:x0})) > e):
         st = get_t(x0)
         y = f.subs({x: x0})
