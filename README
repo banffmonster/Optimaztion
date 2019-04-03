@@ -4,3 +4,5 @@ SDa.py is steepest descent for question a
 SDb.py is steepest descent for question b
 Newtona.py is Newton's technique for question a
 Newtonb.py is Newton.s technique for question b
+
+I have used Simpy and Numpy in my code, to install them use: "pip install simpy" and "pip install numpy"
